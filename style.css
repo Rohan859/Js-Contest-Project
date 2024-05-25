@@ -1,0 +1,32 @@
+#title-count{
+    color:whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    margin-left: 50px;
+}   
+
+body{
+   background-color: black;
+}
+
+#p-tag{
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 50px;
+}
+
+.li-item{
+    display: inline;
+    display: flex;
+}
+
+.buttons{
+    margin-left: 10px;
+}
+
+#error-msg{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 50px;
+    
+}
